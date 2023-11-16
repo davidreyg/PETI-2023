@@ -286,6 +286,9 @@
         </child>
       </element>
     </folder>
+    <folder name="Proceso de compras" id="id-25f39fbe0ddc4a178d68f50fadc34e26">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="compras" id="id-8890a0a839da4b15b98e157d418c859c"/>
+    </folder>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-f7e1d757b97947bfad259e1d32dc82b5"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Herramientas" id="id-281a71400060485f9fda3be26f225320">
       <child xsi:type="archimate:DiagramObject" id="id-7dbf415c22df40bc973c4a167468fa0c" targetConnections="id-65672083548249cc8be770e836e50f72 id-a3f28f6840ce46eb9c881ecef7d9a1fc id-367ed07bd6ad45649a5b383a511d40d5 id-22c80fe788764b438baa7830df85c9e5 id-be5cd4afd094407ab164f8ef57772cb2" archimateElement="id-babc42e9bd894fcab9104ade8f1bdd77">
