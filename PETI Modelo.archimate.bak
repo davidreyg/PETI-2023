@@ -7,7 +7,6 @@
     <element xsi:type="archimate:Resource" name="Proceso de capacitación" id="id-3fec97061e384a2caaaee7f0659e3377"/>
     <element xsi:type="archimate:Resource" name="Proceso de anteción al cliente" id="id-b6aa263f414343e2ad1c6585586386ad"/>
     <element xsi:type="archimate:Resource" name="Proceso de evaluación de desempeño" id="id-b97314fb306e4df5b12117ef9b15624e"/>
-    <element xsi:type="archimate:Resource" name="Resource" id="id-59f7b51e3a6f4ae9a648bcdb9ead8df4"/>
   </folder>
   <folder name="Business" id="id-b6ef2ff55a3d4c67800036a0755a8af3" type="business"/>
   <folder name="Application" id="id-9b74d5b7a5de4eb092c4c6754b063b2c" type="application"/>
@@ -166,9 +165,6 @@
           <bounds x="636" y="48" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-7b3caa5c1a1c423a9699b3f468928976" source="id-5b67720ac563458d952de0a75399a523" target="id-f45f116787f9498c946a44c48baa2724" archimateRelationship="id-20f9856f10e8488db28391131cba6bac"/>
         </child>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-0c7c81ee813748cda39e27c8752958f1" archimateElement="id-59f7b51e3a6f4ae9a648bcdb9ead8df4">
-        <bounds x="1080" y="594" width="120" height="55"/>
       </child>
     </element>
   </folder>
